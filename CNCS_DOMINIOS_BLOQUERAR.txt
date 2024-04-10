@@ -11,3 +11,4 @@ autenticacao-gov.pt-sdc.live
 contratos-comercial.com
 contratos-comercial.net
 cmd-bloquear.com
+cmd-remover.com
