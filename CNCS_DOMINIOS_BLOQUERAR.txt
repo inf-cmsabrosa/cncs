@@ -30,3 +30,5 @@ contratos-comercial.com
 contratos-comercial.net
 cmd-bloquear.com
 cmd-remover.com
+gui-snitch.online
+dev-snitch.online
